@@ -38,3 +38,16 @@ const emit = defineEmits(['reserve'])
 <i>♡</i> 為相聚而準備的餐桌</span>
 </div>
 </template>
+
+<style scoped>
+.hero-actions .button {
+  background: #2563eb;
+  border-color: #2563eb;
+  color: #fff;
+}
+
+.hero-actions .button:hover {
+  background: #1d4ed8;
+  border-color: #1d4ed8;
+}
+</style>
