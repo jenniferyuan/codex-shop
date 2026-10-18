@@ -1,4 +1,4 @@
-# 禾家小館
+# 袁家小館
 
 Vue 3 + Vite + JavaScript 餐廳首頁，使用 Composition API 與單檔元件。
 

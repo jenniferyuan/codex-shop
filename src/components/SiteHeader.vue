@@ -4,7 +4,7 @@ const emit = defineEmits(['reserve'])
 
 <template>
 <header>
-<a class="brand" href="#" aria-label="禾家首頁">禾家<span>小館</span>
+<a class="brand" href="#" aria-label="袁家首頁">袁家<span>小館</span>
 </a>
 <nav aria-label="主選單">
 <a href="#story">關於我們</a>
